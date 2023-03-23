@@ -1,0 +1,51 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+body{
+  font: 15px "monospace";
+  color:rgb(16, 16, 230);
+  background-image: url("water.jpg");
+}
+
+.login{
+  width: flex;
+  margin: flex;
+  padding: 20px 20px 20px;
+  background: rgb(5, 105, 136);
+  border-radius: 12px;
+  box-shadow: 0px 0px 8px 5px rgba(3, 181, 235, 0.4);
+  
+}
+
+.login h1 {
+  margin: -20px -20px 21px;
+  line-height: 40px;
+  font-size: 15px;
+  font-weight: bold;
+  color: rgb(47, 66, 61);
+  text-align: center;
+  text-shadow: 0 1px rgb(7, 119, 194);
+  background: #03d2da;
+  border-bottom: 1px solid #10acd3;
+  border-radius: flex;
+  box-shadow: 0px 0px 8px 5px rgba
+}
+
+.login p {
+  margin: 20px 0 0;
+  text-align: center;
+  box-shadow: 0px 0px 8px 5px rgba
+}
+
+.main{
+  border-radius: 10px;
+  box-shadow: 0px 0px 8px 5px rgba
+}
+
+
+
+
